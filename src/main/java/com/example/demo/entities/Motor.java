@@ -1,2 +1,4 @@
-package com.example.demo.entities;public class Motor {
+package com.example.demo.entities;
+
+public class Motor {
 }

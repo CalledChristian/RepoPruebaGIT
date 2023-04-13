@@ -1,2 +1,4 @@
-package com.example.demo.controllers;public class MotorController {
+package com.example.demo.controllers;
+
+public class MotorController {
 }
